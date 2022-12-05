@@ -4,7 +4,7 @@ If almost all vulnerabilites are exploited with malicious sc calls, why not allo
 
 ## Reproduction
 
-### 📜 Involves two smart contracts.
+### 📜 Involves two smart contracts
 
     1. A vulnerable contract that checks via extcodesize if caller is another sc.
     2. A malicious contract that is deployed upon calling, bypassing extcodesize check.
