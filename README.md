@@ -11,4 +11,4 @@ If almost all vulnerabilites are exploited with malicious sc calls, why not allo
 
 ## How to prevent it
 
-👁️ TBD
+👁️ Don't rely only on extcodesize check, as it can be bypassed.
